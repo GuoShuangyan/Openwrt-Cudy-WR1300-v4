@@ -6,7 +6,7 @@
 
 这是原厂固件和我编译好的固件
 
- [openwrt-ramips-mt7621-cudy_wr1300-v4-squashfs-sysupgrade.bin](openwrt-ramips-mt7621-cudy_wr1300-v4-squashfs-sysupgrade.bin)  [openwrt-ramips-mt7621-cudy_wr1300-v4-squashfs-flash.bin](openwrt-ramips-mt7621-cudy_wr1300-v4-squashfs-flash.bin) 
+ [openwrt-ramips-mt7621-cudy_wr1300-v4-squashfs-sysupgrade.bin](https://github.com/GuoShuangyan/Openwrt-Cudy-WR1300-v4/raw/master/openwrt-ramips-mt7621-cudy_wr1300-v4-squashfs-sysupgrade.bin)  [openwrt-ramips-mt7621-cudy_wr1300-v4-squashfs-flash.bin](https://github.com/GuoShuangyan/Openwrt-Cudy-WR1300-v4/raw/master/openwrt-ramips-mt7621-cudy_wr1300-v4-squashfs-flash.bin) 
 
 首先将官方给的openwrt和我编译的openwrt准备好
 
@@ -60,7 +60,7 @@ I have finished compiling the firmware, and all functions are working properly. 
 
 Here are the original factory firmware and the firmware I compiled:
 
- [openwrt-ramips-mt7621-cudy_wr1300-v4-squashfs-sysupgrade.bin](openwrt-ramips-mt7621-cudy_wr1300-v4-squashfs-sysupgrade.bin)  [openwrt-ramips-mt7621-cudy_wr1300-v4-squashfs-flash.bin](openwrt-ramips-mt7621-cudy_wr1300-v4-squashfs-flash.bin) 
+ [openwrt-ramips-mt7621-cudy_wr1300-v4-squashfs-sysupgrade.bin](https://github.com/GuoShuangyan/Openwrt-Cudy-WR1300-v4/raw/master/openwrt-ramips-mt7621-cudy_wr1300-v4-squashfs-sysupgrade.bin)  [openwrt-ramips-mt7621-cudy_wr1300-v4-squashfs-flash.bin](https://github.com/GuoShuangyan/Openwrt-Cudy-WR1300-v4/raw/master/openwrt-ramips-mt7621-cudy_wr1300-v4-squashfs-flash.bin) 
 
 First, prepare the official OpenWrt firmware and the one I compiled.
 
